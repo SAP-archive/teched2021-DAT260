@@ -19,6 +19,7 @@ All necessary preparation steps are documented in our preparation reader. Get it
 
 Here is what you need to prepare before the workshop starts to be able to follow along:
 
+- Follow the steps outlined in the [workshop preparation document](https://github.com/SAP-samples/hana-cloud-learning/blob/main/Workshop:%20Collaborative%20Development/SAP%20HANA%20Cloud%20Workshops_Preparation%20Reader.pdf).
 - [Sign-up for the SAP HANA Cloud trial](https://www.sap.com/cmp/td/sap-hana-cloud-trial.html).
 - [Provision](https://developers.sap.com/tutorials/hana-cloud-mission-trial-2.html) a SAP HANA Cloud, SAP HANA database in trial. 
 - Make sure your SAP HANA Cloud, SAP HANA database is running in your trial account.
