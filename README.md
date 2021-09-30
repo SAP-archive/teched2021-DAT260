@@ -1,16 +1,30 @@
-# Session ID - Session Title
+# DAT260 - Collaborative Database Development in SAP HANA Cloud, SAP HANA database
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2021 session called Session ID - Session Title.  
+This directory provides additional material for the SAP HANA Cloud Workshop session DAT260, "Collaborative Database Development in SAP HANA Cloud, SAP HANA database".
+
+Join the SAP HANA Cloud Workshop series to learn with our experts Volker Saggau and Jan Zwickel in this hands-on workshop. Follow along with your own trial account and get help from our experts during the event. Alternatively, catch-up by watching the recordings on-demand.
 
 ## Overview
 
-This session introduces attendees to...
+Learn how to collaborate on database development in SAP HANA Cloud and SAP Business Application Studio. Get to know basic HDI concepts, ways to develop applications and automate their deployment, and create template projects that others in your organization can easily use and modify.
+
+Part 1: Project Lifecycle Management & HDI Concepts in SAP HANA Cloud, SAP HANA database
+Part 2: Creating Project Templates for team members in SAP Business Application Studio
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+All necessary preparation steps are documented in our preparation reader. Get it here.
+
+Here is what you need to prepare before the workshop starts to be able to follow along:
+
+- [Sign-up for the SAP HANA Cloud trial](https://www.sap.com/cmp/td/sap-hana-cloud-trial.html).
+- [Provision](https://developers.sap.com/tutorials/hana-cloud-mission-trial-2.html) a SAP HANA Cloud, SAP HANA database in trial. 
+- Make sure your SAP HANA Cloud, SAP HANA database is running in your trial account.
+- [Add a subscription](https://help.sap.com/viewer/9d1db9835307451daa8c930fbd9ab264/Cloud/en-US/6331319fd9ea4f0ea5331e21df329539.html) to SAP Business Application Studio to your trial. 
+- Create a free account on [github.com](https://www.github.com).
+- If you need help with the preparation, please ask questions in the SAP Community using the tag **SAP HANA Cloud**. 
 
 ## Exercises
 
@@ -29,9 +43,9 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 
 Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
 
-**IMPORTANT**
+##Download and Installation
 
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+Code and Sample data can be downloaded from this directory or cloned to a development project in SAP Business Application Studio.
 
 ## How to obtain support
 
