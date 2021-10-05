@@ -10,9 +10,9 @@ Join the SAP HANA Cloud Workshop series to learn with our experts Volker Saggau 
 
 Learn how to collaborate on database development in SAP HANA Cloud and SAP Business Application Studio. Get to know basic HDI concepts, ways to develop applications and automate their deployment, and create template projects that others in your organization can easily use and modify.
 
-Part 1: Project Lifecycle Management & HDI Concepts in SAP HANA Cloud, SAP HANA database
+- Part 1: Project Lifecycle Management & HDI Concepts in SAP HANA Cloud, SAP HANA database
 
-Part 2: Creating Project Templates for team members in SAP Business Application Studio
+- Part 2: Creating Project Templates for team members in SAP Business Application Studio
 
 ## Requirements
 
