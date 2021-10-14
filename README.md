@@ -20,7 +20,7 @@ All necessary preparation steps are documented in our preparation reader. Get it
 
 Here is what you need to prepare before the workshop starts to be able to follow along:
 
-- Follow the steps outlined in the [workshop preparation document](https://github.com/SAP-samples/hana-cloud-learning/blob/main/Workshop:%20Collaborative%20Development/SAP%20HANA%20Cloud%20Workshops_Preparation%20Reader.pdf).
+- Follow the steps outlined in the [workshop preparation document](https://github.com/SAP-samples/teched2021-DAT260/blob/44a875fabf97c096634f1fbb6f04db4a568e6685/Dat260_Preparation%20Reader.pdf).
 - [Sign-up for the SAP HANA Cloud trial](https://www.sap.com/cmp/td/sap-hana-cloud-trial.html).
 - [Provision](https://developers.sap.com/tutorials/hana-cloud-mission-trial-2.html) a SAP HANA Cloud, SAP HANA database in trial. 
 - Make sure your SAP HANA Cloud, SAP HANA database is running in your trial account.
@@ -51,7 +51,7 @@ Code and Sample data can be downloaded from this directory or cloned to a develo
 
 ## How to obtain support
 
-Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
+Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support by posting your questions in the [SAP Community](https://answers.sap.com/questions/ask.html?primaryTagId=73554900100800002881) using the tag SAP HANA Cloud.
 
 ## License
 Copyright (c) 2021 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
