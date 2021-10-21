@@ -32,7 +32,7 @@ Here is what you need to prepare before the workshop starts to be able to follow
 
 **Start the exercises [here](https://developers.sap.com/group.hana-cloud-collaboration.html)**.
 
-##Download and Installation
+## Download and Installation
 
 Code and Sample data can be downloaded from this directory or cloned to a development project in SAP Business Application Studio.
 
