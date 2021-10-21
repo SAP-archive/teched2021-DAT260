@@ -1,4 +1,4 @@
-Session #1: Project Lifecycle Management & HDI Concepts in SAP HANA Cloud, SAP HANA database
+Part 1: Project Lifecycle Management & HDI Concepts in SAP HANA Cloud, SAP HANA database
 
 [# - Main heading
  ## - Sub-heading
