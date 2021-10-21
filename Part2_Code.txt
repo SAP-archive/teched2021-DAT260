@@ -1,4 +1,4 @@
-Session #3: Creating Project Templates for Team Members in SAP Business Application Studio
+Part 2: Creating Project Templates for Team Members in SAP Business Application Studio
 
 [# - Main heading
  ## - Sub-heading
